@@ -100,17 +100,17 @@
 }
 
 margin {
-    margin-top: 33px;
-    margin-bottom: 33px;
-    margin-right: 33px;
-    margin-left: 33px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 padding {
-    padding-top: 33px;
-    padding-right: 33px;
-    padding-bottom: 33px;
-    padding-left: 33px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
 }
 <!-- My Work Section Constructed using CSS Grid -->
 .item1 {
