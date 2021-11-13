@@ -89,12 +89,12 @@ img {
 
 /* The hero image */
 .herolmg {
-    height: 250px;
+    height: 500px;
     padding: 25px;
 }
 
 .content {
-    width: 35px;
+    width: 65px;
     margin: 0 auto;
 }
 
