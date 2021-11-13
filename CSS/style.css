@@ -126,8 +126,6 @@ padding {
 }
 
 
-
-
 @media only screen and (max-width: 600){
     #categoryGrid {
         grid-template-rows: 'myRows, myRows, my Rows, myRows, myRows, myRows, myRows';
