@@ -6,10 +6,10 @@
 }
 
 img {
-    display: block;
+    display: inline-block;
     margin-left: auto;
     margin-right: auto;
-    width: 40%;
+    width: 60%;
 }
 
 .logo{
@@ -89,7 +89,7 @@ img {
 
 /* The hero image */
 .herolmg {
-    height: 500px;
+    height: 600px;
     padding: 25px;
 }
 
@@ -98,11 +98,6 @@ img {
     margin: 0 auto;
 }
 
-.ul{
-    display: inline-block;
-    vertical-align: top;
-    padding: 1%;
-}
 <!-- My UX Skills section coded using CSS flex -->
 .flex-container {
     display: flex;
